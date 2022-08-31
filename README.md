@@ -55,6 +55,7 @@ Please feel free to send a PR with a link to an additional project.
 * [reproducr][]
 * [researchcompendium][]
 * [rflow][]
+* [rflow (Harrell)][rflow-harrell]
 * [rmarkdown][]
 * [rmd-notebook][]
 * [rmflight][]: [Analyses as Packages][rmflight-post]
@@ -124,6 +125,7 @@ Please feel free to send a PR with a link to an additional project.
 [reproducr]: https://github.com/jschultecloos/reproducr
 [researchcompendium]: https://github.com/benmarwick/researchcompendium
 [rflow]: https://github.com/numeract/rflow
+[rflow-harrell]: https://hbiostat.org/rflow/
 [rmarkdown]: http://rmarkdown.rstudio.com/
 [rmd-notebook]: https://github.com/lmullen/rmd-notebook
 [rmflight]: https://github.com/rmflight
